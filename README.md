@@ -1,6 +1,6 @@
 # StockAnalysiReport
 <p align="center">
-  <img width="460" height="300" src="images/TRAIsNewRules.jpg">
+  <img width="460" height="300" src="images/Images.jpg">
 </p>
 
 ## INTRODUCTION
