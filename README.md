@@ -1,6 +1,6 @@
 # StockAnalysiReport
 <p align="center">
-  <img width="460" height="300" src="images/images.jpg">
+  <img width="460" height="300" src="Images/images.jpg">
 </p>
 
 ## INTRODUCTION
